@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi My name is WU ZHEN RONG 
+I'm interested in Machine Learning and algorithm.
+I've learned C, C++ and Python for 2 years.
 <!--
 **MaxWutw/MaxWutw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
