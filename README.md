@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)-->
+![Visitor Count](https://profile-counter.glitch.me/MaxWutw/count.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=fantingsheng)
