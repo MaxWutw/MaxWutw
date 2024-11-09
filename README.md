@@ -1,5 +1,5 @@
 ### Hi My name is WU ZHEN RONG 
-I'm interested in Machine Learning and algorithms. <br>
+I'm interested in System Programming, Machine Learning and algorithms. <br>
 <!--
 **MaxWutw/MaxWutw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
