@@ -1,6 +1,6 @@
 ## Hi, I'm Zhen-Rong Wu
 
-I'm interested in system programming, kernel development, machine learning and algorithms.
+I'm interested in system programming, kernel development, compiler and algorithms.
 CSIE undergraduate at National Taiwan Normal University.
 
 ### AMD SEV for FreeBSD bhyve
